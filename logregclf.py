@@ -1,5 +1,8 @@
 """
-Script to build simple Logistic Regression classifier.
+Author: Max Copeland
+Script to build a simple shallow Neural Network optimized
+with gradient descent. See NN_Primer.ipynb for corresponding
+demo.
 """
 
 import numpy as np

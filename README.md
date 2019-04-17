@@ -1,2 +1,2 @@
-# internal_projects
-Internal projects (scrubbed of IP/proprietary work) 
+# internal_tutorials
+Python/DS tutorials for junior research engineers.
